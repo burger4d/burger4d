@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-first website: http://Alext3.pythonanywhere.com
-
 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/burger4d/count.svg)
